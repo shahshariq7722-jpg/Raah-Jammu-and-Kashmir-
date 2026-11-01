@@ -1,0 +1,6 @@
+{
+  "name": "RAAH J&K – Public Information Platform",
+  "description": "An independent, student-led public-information platform designed to help people across Jammu and Kashmir discover verified government services, scholarships, healthcare resources, public grievance portals, and district guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
